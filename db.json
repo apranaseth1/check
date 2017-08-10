@@ -13,8 +13,8 @@
   "ExtractServices":
   [
     {
-      "QualifiedName1" :"QualifiedName1", ["1", "2", "3"],
-      "QualifiedName2" :"QualifiedName2", ["1", "3", "4"]    
+      "QualifiedName1" :"QualifiedName1", "EndpointQualifiedNames": ["1", "2", "3"],
+      "QualifiedName2" :"QualifiedName2", "EndpointQualifiedNames": ["1", "3", "4"]    
     }
   ]
 }
