@@ -5,8 +5,8 @@
           "policies": 
           [
             {
-              "policy1": "policy1",
-              "policy2": "polciy2"
+              "policy1": {"policy1"},
+              "policy2": {"polciy2" }
             }
           ]
     },
